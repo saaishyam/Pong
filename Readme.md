@@ -10,3 +10,17 @@ This was made as a learning project which was made by using Raylibs library.
     *Collision detection
     *And so called CPU movement
 
+# Running Pong
+
+
+Compile main.c
+```bash
+gcc main.c -o game -lraylib -lGL -lm -lpthread -ldl -lrt -lX11   
+```
+
+Run main.c
+
+```bash
+./game
+```
+
