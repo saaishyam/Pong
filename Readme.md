@@ -4,9 +4,9 @@
 
 This was made as a learning project which was made by using Raylibs library.
 
-# Features
+## Features
 
-*Basic movements
-*Collision detection
-*And so called CPU movement
+    *Basic movements
+    *Collision detection
+    *And so called CPU movement
 
